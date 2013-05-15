@@ -23,6 +23,7 @@ int main(int argc, char * argv[])
     mul(2,2);
 add(5,6);
 sub(9,7);
+mul(9,9);
 
 
 }
