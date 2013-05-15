@@ -21,13 +21,18 @@ int main(int argc, char * argv[])
 	add(2,2);
 	sub(2,2);
     mul(2,2);
+
 add(5,6);
 sub(9,7);
 mul(9,9);
     
     add(12,13);
 	sub(10,10);
-mul(10,11);
+    mul(10,11);
 
+add(6,5);
+sub(7,9);
+mul(1,81);
 
+    
 }
